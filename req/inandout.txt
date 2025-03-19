@@ -1,5 +1,0 @@
-import sys
-
-sys.stdin = open("graphs\\input.txt","r")
-sys.stdout = open("graphs\\output.txt","a")
-n , m = map(int, input().split()) 
