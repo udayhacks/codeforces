@@ -58,10 +58,7 @@ void file_out(){
 int main() {
 
     file_out();
-    int arr[3] = {1,2,3};
-    _print(arr,3);
-
-
+ 
 
 
 
